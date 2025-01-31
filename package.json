@@ -1,0 +1,25 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "## **Introduction**",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^20.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitsharmas84/http-status-api.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/harshitsharmas84/http-status-api/issues"
+  },
+  "homepage": "https://github.com/harshitsharmas84/http-status-api#readme"
+}
